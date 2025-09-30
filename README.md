@@ -2,8 +2,6 @@
 
 Welcome to the **Shadowfox-Project**, a personal portfolio project created during my ShadowFox internship. This portfolio demonstrates my web development skills and showcases my projects with an interactive and responsive design.
 
-## 🌐 Live Website
-You can view the live portfolio here: [Shadowfox Portfolio](https://roshan1351.github.io/Shadowfox-Project/)
 
 ## 📂 Project Structure
 The repository contains:  
